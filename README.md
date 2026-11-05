@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm W-ADEMA
 
-<!--
-**W-ADEMA/W-ADEMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer currently studying MBO 4 Software Development.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in pretty much anything computer-related. Outside of coding, I enjoy building PCs, tinkering with my home server, running Linux and ofcourse gaming.
+
+## I have experience with:
+
+* HTML / CSS
+* JavaScript
+* PHP
+* Python
+* C#
+* MySQL / XAMPP
+* Git
+* Linux
